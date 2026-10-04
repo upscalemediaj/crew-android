@@ -1,0 +1,8 @@
+<resources>
+    <color name="crew_bg">#070910</color>
+    <color name="crew_panel">#111521</color>
+    <color name="crew_purple">#7C3AED</color>
+    <color name="crew_pink">#E11D48</color>
+    <color name="crew_white">#F8FAFC</color>
+    <color name="crew_muted">#A7B0C0</color>
+</resources>
